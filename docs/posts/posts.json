@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-06-04-kicking-off-a-distill-website-in-under-20-minutes/",
+    "title": "Kicking off a distill website in under 20 minutes",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rainer KOELLE",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-04",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\nMy tweak and change to my first post with a {distill} website.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-06-04T10:46:37+02:00",
+    "input_file": {}
+  }
+]

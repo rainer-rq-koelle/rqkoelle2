@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-04T10:53:53+02:00"
+    },
+    {
+      "path": "about_rq.html",
+      "title": "Rainer Koelle",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          rqkoelle\r\n          \r\n          \r\n          Home\r\n          Rainer\r\n          Blog\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Rainer Koelle\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        LinkedIn\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Twitter\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I am a classically trained data scientist living in the\r\n            San Francisco Bay Area. Currently I work on the Oculus team\r\n            at Facebook. I love talking about baseball, true crime\r\n            podcasts, and causal inference.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Rainer Koelle\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-06-04T10:53:53+02:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "RQ's Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-04T10:53:54+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "rqkoelle",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-04T10:53:55+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

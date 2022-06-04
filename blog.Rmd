@@ -1,0 +1,4 @@
+---
+title: "RQ's Blog"  # any name you want here
+listing: posts # do this exactly
+---
