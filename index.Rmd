@@ -16,3 +16,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Hello World!
+
+This is a revamp of my website ... and work in progress. 
+
+If you see this page, it is likely that my posts are not yet fully migrated.    
+I decided to move from a half-cooked `hugo/blogdown`-driven page to `distill`. Primarily for its simplicity and a lower maintenance requirements.
+
+As usual, for further questions/discussions I assume you somehow know how to contact me.     
+Stay safe,     
+RQ
